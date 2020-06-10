@@ -27,5 +27,4 @@ public class JavaMicroServiceResource {
         return "Hello secured World!!!";
     }
 
-
 }
